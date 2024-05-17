@@ -1,0 +1,47 @@
+Naive Bayes Classifier for Predicting the Novel Coronavirus
+
+IEEE Conference on Intelligent Communication Technologies and Virtual Mobile Networks,Issue Date:31.March.2021
+
+coronavirus; naïve bayes classifier; data mining
+
+Naïve_Bayes_Classifier
+
+
+naïve_bayes_classifier
+
+
+Predicting_Novel_Coronavirus
+
+Fever
+Tiredness
+Dry_Cough
+Difficulty_in_Breathing
+Sore_Throat
+None_Sympton
+Pains
+Nasal_Congestion
+Runny_Nose
+Diarrhea
+None_Experiencing
+Age_0To9
+Age_10To19
+Age_20To24
+Age_25To59
+Age_60Above
+Gender_Female
+Gender_Male
+Gender_Transgender
+Severity_Mild
+Severity_Moderate
+Severity_None
+Contact_Dont_Know
+Contact_No
+Contact_Yes
+Naive_Byes
+SVM
+Logistic_Regression
+RandomForestClassifier
+Decision_Tree_Classifier
+KNeighborsClassifier
+
+
